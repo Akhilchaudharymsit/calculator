@@ -1,4 +1,4 @@
-#A simple calculator project made using Python.
+# A simple calculator project made using Python.
 <br>
 This calculator performs basic arithmetic operations like:<br>
 Addition<br>
